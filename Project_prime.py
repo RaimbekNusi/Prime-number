@@ -1,4 +1,3 @@
-#Raimbek Nussipkhozhin, NFU892, 11313819, Jeffrey Long
 def is_prime(N):
     """
     Determines whether a given positive integer is prime or not
@@ -33,7 +32,8 @@ def numbers(x):
         out[int(line)] = is_prime(int(line))
     f.close()
     return out
-print(numbers("numbers.txt"))
+x = input("Write the name of the .txt file")
+print(numbers(x))
 
 
     
