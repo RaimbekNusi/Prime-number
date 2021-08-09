@@ -1,4 +1,4 @@
-# Prime numbers
+# Prime numbers (ENGLISH)
 ## Description
 A prime number (or a prime) is a natural number greater than 1 that is not a product of two smaller natural numbers. A natural number greater than 1 that is not prime is called a composite number. For example, 5 is prime because the only ways of writing it as a product, 1 × 5 or 5 × 1, involve 5 itself. However, 4 is composite because it is a product (2 × 2) in which both numbers are smaller than 4. Primes are central in number theory because of the fundamental theorem of arithmetic: every natural number greater than 1 is either a prime itself or can be factorized as a product of primes that is unique up to their order.
 
@@ -27,7 +27,7 @@ Here are the steps for how to open, use and utilize the program:
 
 *The program can use other .txt file that are in the same format as provided files.
 
-# Простые числа
+# Простые числа (РУССКИЙ)
 
 ## Описание
 Простое число - это натуральное число больше 1, которое не является произведением двух меньших натуральных чисел. Натуральное число больше 1, которое не является простым, называется составным числом. Например, число 5 является простым, потому что единственные способы записать его как продукт, 1 × 5 или 5 × 1, включают само число 5. Однако число 4 составное, потому что это произведение (2 × 2), в котором оба числа меньше 4. Простые числа занимают центральное место в теории чисел в силу фундаментальной арифметической теоремы: каждое натуральное число больше 1 либо само простое, либо могут быть разложены на множители как произведение простых чисел, уникальное в соответствии с их порядком.
